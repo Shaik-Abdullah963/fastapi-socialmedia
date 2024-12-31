@@ -10,7 +10,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
    
 #models.Base.metadata.create_all(bind=engine)
-origins =["https://www.google.com", "https://www.youtube.com"]
+origins =["https://www.google.com", "https://www.youtube.com", "http://127.0.0.1"]
 app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
