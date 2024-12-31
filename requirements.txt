@@ -1,0 +1,49 @@
+alembic==1.14.0
+annotated-types @ file:///home/conda/feedstock_root/build_artifacts/annotated-types_1716290248287/work
+anyio==4.5.2
+bcrypt==4.2.1
+certifi==2024.8.30
+cffi==1.17.1
+click==8.1.7
+cryptography==44.0.0
+dnspython==2.6.1
+email_validator==2.2.0
+exceptiongroup==1.2.2
+fastapi==0.115.4
+fastapi-cli==0.0.5
+greenlet==3.1.1
+h11==0.14.0
+httpcore==1.0.6
+httptools==0.6.4
+httpx==0.27.2
+idna==3.10
+importlib_metadata==8.5.0
+importlib_resources==6.4.5
+Jinja2==3.1.4
+Mako==1.3.8
+markdown-it-py==3.0.0
+MarkupSafe==2.1.5
+mdurl==0.1.2
+passlib==1.7.4
+psycopg2 @ file:///Users/runner/miniforge3/conda-bld/psycopg2-split_1701737555316/work
+pycparser==2.22
+pydantic @ file:///home/conda/feedstock_root/build_artifacts/pydantic_1720293063581/work
+pydantic-settings @ file:///home/conda/feedstock_root/build_artifacts/pydantic-settings_1730473655340/work
+pydantic_core @ file:///Users/runner/miniforge3/conda-bld/pydantic-core_1720041211993/work
+Pygments==2.18.0
+PyJWT==2.9.0
+python-dotenv @ file:///home/conda/feedstock_root/build_artifacts/python-dotenv-split_1706018097647/work
+python-multipart==0.0.17
+PyYAML==6.0.2
+rich==13.9.3
+shellingham==1.5.4
+sniffio==1.3.1
+SQLAlchemy==2.0.36
+starlette==0.41.2
+typer==0.12.5
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1717802530399/work
+uvicorn==0.32.0
+uvloop==0.21.0
+watchfiles==0.24.0
+websockets==13.1
+zipp==3.20.2
