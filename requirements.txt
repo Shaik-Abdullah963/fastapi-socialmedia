@@ -1,5 +1,5 @@
 alembic==1.14.0
-annotated-types @ file:///home/conda/feedstock_root/build_artifacts/annotated-types_1716290248287/work
+
 anyio==4.5.2
 bcrypt==4.2.1
 certifi==2024.8.30
@@ -25,6 +25,7 @@ markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 mdurl==0.1.2
 passlib==1.7.4
+pip @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_0ato15bisz/croot/pip_1723484599651/work
 psycopg2 @ file:///Users/runner/miniforge3/conda-bld/psycopg2-split_1701737555316/work
 pycparser==2.22
 pydantic @ file:///home/conda/feedstock_root/build_artifacts/pydantic_1720293063581/work
@@ -36,6 +37,7 @@ python-dotenv @ file:///home/conda/feedstock_root/build_artifacts/python-dotenv-
 python-multipart==0.0.17
 PyYAML==6.0.2
 rich==13.9.3
+setuptools==75.1.0
 shellingham==1.5.4
 sniffio==1.3.1
 SQLAlchemy==2.0.36
@@ -46,4 +48,5 @@ uvicorn==0.32.0
 uvloop==0.21.0
 watchfiles==0.24.0
 websockets==13.1
+wheel==0.44.0
 zipp==3.20.2
